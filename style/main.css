@@ -315,44 +315,44 @@ hr {
 	@media screen and (max-width: 520px) {
       .tile .tile-inner {
         font-size: 20px; } }
-  .tile.tile-2 .tile-inner {
+  .tile.tile-2 .tile-inner {/*土豆*/
     background: #eee4da;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 	@media screen and (max-width: 520px) {
       .tile.tile-2 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-4 .tile-inner {
+  .tile.tile-4 .tile-inner {/*史军*/
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 	@media screen and (max-width: 520px) {
       .tile.tile-4 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-8 .tile-inner {
+  .tile.tile-8 .tile-inner {/*steed*/
     color: #f9f6f2;
     background: #f2b179; }
 	@media screen and (max-width: 520px) {
       .tile.tile-8 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-16 .tile-inner {
+  .tile.tile-16 .tile-inner {/*杨哥*/
     color: #f9f6f2;
     background: #f59563; }
 	@media screen and (max-width: 520px) {
       .tile.tile-16 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-32 .tile-inner {
+  .tile.tile-32 .tile-inner {/*鹦鹉螺*/
     color: #f9f6f2;
     background: #f67c5f; 
 	font-size: 30px;}
 	@media screen and (max-width: 520px) {
       .tile.tile-32 .tile-inner {
-        font-size: 20px; } }
-  .tile.tile-64 .tile-inner {
+        font-size: 15px; } }
+  .tile.tile-64 .tile-inner {/*咖喱*/
     color: #f9f6f2;
     background: #f65e3b; }
 	@media screen and (max-width: 520px) {
       .tile.tile-64 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-128 .tile-inner {
+  .tile.tile-128 .tile-inner {/*小圆*/
     color: #f9f6f2;
     background: #edcf72;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -360,7 +360,7 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-256 .tile-inner {
+  .tile.tile-256 .tile-inner {/*小庄*/
     color: #f9f6f2;
     background: #edcc61;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -368,15 +368,15 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-512 .tile-inner {
+  .tile.tile-512 .tile-inner {/*简里里*/
     color: #f9f6f2;
     background: #edc850;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 20px; } }
-  .tile.tile-1024 .tile-inner {
+        font-size: 15px; } }
+  .tile.tile-1024 .tile-inner {/*飘飘*/
     color: #f9f6f2;
     background: #edc53f;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -384,30 +384,42 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-2048 .tile-inner {
+  .tile.tile-2048 .tile-inner {/*佳佳*/
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 20px; } }
-  .tile.tile-4096 .tile-inner {
+  .tile.tile-4096 .tile-inner {/*常生活*/
     color: #f9f6f2;
     background: #edc22e;
 	font-size: 30px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
+	@media screen and (max-width: 520px) {
+      .tile.tile-4096 .tile-inner {
+        font-size: 15px; } }
   .tile.tile-8192 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
+	@media screen and (max-width: 520px) {
+      .tile.tile-8192 .tile-inner {/*Ent*/
+        font-size: 20px; } }
   .tile.tile-16384 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
+	@media screen and (max-width: 520px) {
+      .tile.tile-16384 .tile-inner {/*杨烨*/
+        font-size: 20px; } }
   .tile.tile-32768 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
+	@media screen and (max-width: 520px) {
+      .tile.tile-16384 .tile-inner {/*科脱听友*/
+        font-size: 10px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
